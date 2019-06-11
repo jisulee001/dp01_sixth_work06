@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:300,400,500,700,900&display=swap');
+
+
+h1,h2,h3,h4,p, .navbar-brand {
+	font-family:'Noto Sans KR', snas-serif;
+	color:white ;
+}
+h4 {font-weight:500;
+	font-size:1.2em; }
+h2{font-weight:700;
+font-size:3em;}
+
+p{font-size:1em;
+line-height:1.6em;}
+body{
+	margin:0;
+	padding:0;
+	font-family:'Nanum Gothic';
+	background-color:black;
+}
+.navbar {
+	border-bottom:grey 0.2px solid;
+	background-color:black;
+}
+
+#moodboard{
+	z-index:0px;
+}
+#comedywhatever{
+	z-index:100px;
+}
